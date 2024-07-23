@@ -1,4 +1,4 @@
--Projects_AI_Camera:
+-Projects_AI_Camera (Cabin2):
 		   -11:
 		       -AI_Camera 11.edb
 		       -AI_Camera 11.elk
@@ -20,3 +20,7 @@
 				-AI camera 1314 Version 5.elk
 				-AI_camera 1314.elk
 				-AI_camera 1314_origin.elk
+-(Cabin1):
+			-Cabin1
+				-AI camera cabin1 Version 1.edb
+				-AI camera cabin1 Version 1.elk
