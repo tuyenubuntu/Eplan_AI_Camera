@@ -14,7 +14,7 @@
  <Property name="Project structure: User-defined structure" id="10007" index="0" type="7"/>
  <Property name="Project name (full)" id="10009" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Projects_AI_Camera\Cabin1\AI camera cabin1 Version 1.elk</Property>
  <Property name="Project path" id="10010" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Projects_AI_Camera\Cabin1</Property>
- <Property name="Project description" id="10011" index="0" type="15">??_??@IO CABINET FOR AI CAMERA LINE 12;</Property>
+ <Property name="Project description" id="10011" index="0" type="15">??_??@IO CABINET FOR AI CAMERA CABIN 1;</Property>
  <Property name="Use page name in DT" id="10012" index="0" type="1">0</Property>
  <Property name="Job number" id="10013" index="0" type="7">AL 6, 7, 8, 9</Property>
  <Property name="Commission" id="10014" index="0" type="15">??_??@Detection object;</Property>
@@ -25,9 +25,9 @@
  <Property name="Creator" id="10020" index="0" type="7">Mr Tuyen</Property>
  <Property name="Creation date" id="10021" index="0" type="14">1682757548</Property>
  <Property name="Last editor: Logon name" id="10022" index="0" type="7">AI_PRO_DESK</Property>
- <Property name="Modification date" id="10023" index="0" type="14">1720796741</Property>
+ <Property name="Modification date" id="10023" index="0" type="14">1722269859</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="14">1583402155</Property>
- <Property name="Date" id="10027" index="0" type="14">1720796792</Property>
+ <Property name="Date" id="10027" index="0" type="14">1722270490</Property>
  <Property name="Project start" id="10028" index="0" type="14">1682757590</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Environmental consideration" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;</Property>
@@ -35,7 +35,7 @@
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">14642</Property>
  <Property name="Project path (full)" id="10045" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Projects_AI_Camera\Cabin1</Property>
  <Property name="Creation time" id="10046" index="0" type="7">3:39:08 PM</Property>
- <Property name="Modification time" id="10047" index="0" type="7">10:05:41 PM</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">11:17:39 PM</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">4:55:55 PM</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -44,7 +44,7 @@
  <Property name="Structure format for general devices" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for black boxes" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for PLC / bus technology" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Time of the day" id="10058" index="0" type="14">1720796792</Property>
+ <Property name="Time of the day" id="10058" index="0" type="14">1722270490</Property>
  <Property name="Structure format for terminal strips" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for plugs" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for cables" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
