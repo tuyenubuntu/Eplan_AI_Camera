@@ -25,9 +25,9 @@
  <Property name="Creator" id="10020" index="0" type="7">Mr Tuyen</Property>
  <Property name="Creation date" id="10021" index="0" type="14">1682757548</Property>
  <Property name="Last editor: Logon name" id="10022" index="0" type="7">AI_PRO_DESK</Property>
- <Property name="Modification date" id="10023" index="0" type="14">1723047064</Property>
+ <Property name="Modification date" id="10023" index="0" type="14">1723048216</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="14">1583402155</Property>
- <Property name="Date" id="10027" index="0" type="14">1723048131</Property>
+ <Property name="Date" id="10027" index="0" type="14">1723048223</Property>
  <Property name="Project start" id="10028" index="0" type="14">1682757590</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Environmental consideration" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;</Property>
@@ -35,7 +35,7 @@
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">14642</Property>
  <Property name="Project path (full)" id="10045" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Cabin2\12</Property>
  <Property name="Creation time" id="10046" index="0" type="7">3:39:08 PM</Property>
- <Property name="Modification time" id="10047" index="0" type="7">11:11:04 PM</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">11:30:16 PM</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">4:55:55 PM</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -44,7 +44,7 @@
  <Property name="Structure format for general devices" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for black boxes" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for PLC / bus technology" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Time of the day" id="10058" index="0" type="14">1723048131</Property>
+ <Property name="Time of the day" id="10058" index="0" type="14">1723048223</Property>
  <Property name="Structure format for terminal strips" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for plugs" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for cables" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -372,7 +372,7 @@
  <Property name="Data backup: Method" id="10514" index="0" type="4">0</Property>
  <Property name="Data backup: Backup medium" id="10515" index="0" type="4">0</Property>
  <Property name="Data backup: E-mail message split size in MB" id="10516" index="0" type="6">0</Property>
- <Property name="Data backup: Backup directory" id="10517" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Cabin2</Property>
+ <Property name="Data backup: Backup directory" id="10517" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Read_Eplan</Property>
  <Property name="Internal: Use defined working sections" id="10530" index="0" type="1">0</Property>
  <Property name="Block property: Format (interruption point)" id="10609" index="5" type="7">[20221&lt;20010,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;]-[20222,1&lt;4&lt;11037,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,5&gt;&gt;][20222,1&lt;4&lt;11042,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]-[20222,1&lt;20221&lt;19006,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]/[20222,1&lt;20221&lt;19005,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]</Property>
  <Property name="Block property: Replacement text" id="10660" index="5" type="7">=│??_??@0;│??_??@E;║=│??_??@2;│??_??@H;║=│??_??@3;│??_??@P;║=│??_??@4;│??_??@C;║=│??_??@5;│??_??@L;║=│??_??@6;│??_??@V;║=│??_??@7;│??_??@F;║=│??_??@8;│??_??@K;║=│??_??@9;│??_??@G;</Property>
