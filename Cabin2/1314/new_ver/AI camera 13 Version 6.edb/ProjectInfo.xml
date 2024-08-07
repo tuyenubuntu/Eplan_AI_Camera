@@ -12,8 +12,8 @@
  <Property name="Project structure: Higher-level function number" id="10005" index="0" type="7">&lt;1700&gt;</Property>
  <Property name="Project structure: Document type" id="10006" index="0" type="7"/>
  <Property name="Project structure: User-defined structure" id="10007" index="0" type="7"/>
- <Property name="Project name (full)" id="10009" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Projects_AI_Camera\1314\new_ver\AI camera 13 Version 6.elk</Property>
- <Property name="Project path" id="10010" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Projects_AI_Camera\1314\new_ver</Property>
+ <Property name="Project name (full)" id="10009" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Cabin2\1314\new_ver\AI camera 13 Version 6.elk</Property>
+ <Property name="Project path" id="10010" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Cabin2\1314\new_ver</Property>
  <Property name="Project description" id="10011" index="0" type="15">??_??@IO CABINET FOR AI CAMERA ASEMBLY LINE;</Property>
  <Property name="Use page name in DT" id="10012" index="0" type="1">0</Property>
  <Property name="Job number" id="10013" index="0" type="7">AL13</Property>
@@ -25,16 +25,16 @@
  <Property name="Creator" id="10020" index="0" type="7">Tuyen</Property>
  <Property name="Creation date" id="10021" index="0" type="14">1684424063</Property>
  <Property name="Last editor: Logon name" id="10022" index="0" type="7">AI_PRO_DESK</Property>
- <Property name="Modification date" id="10023" index="0" type="14">1720455064</Property>
- <Property name="Date" id="10027" index="0" type="14">1720656663</Property>
+ <Property name="Modification date" id="10023" index="0" type="14">1723042521</Property>
+ <Property name="Date" id="10027" index="0" type="14">1723042529</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Environmental consideration" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;</Property>
  <Property name="Input lead" id="10040" index="0" type="7">(Update &amp; modify:  PLC input and source addresses, page 6)</Property>
  <Property name="Last EPLAN version used" id="10043" index="0" type="7">2.9.4</Property>
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">14642</Property>
- <Property name="Project path (full)" id="10045" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Projects_AI_Camera\1314\new_ver</Property>
+ <Property name="Project path (full)" id="10045" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Cabin2\1314\new_ver</Property>
  <Property name="Creation time" id="10046" index="0" type="7">10:34:23 PM</Property>
- <Property name="Modification time" id="10047" index="0" type="7">11:11:04 PM</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">9:55:21 PM</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
  <Property name="Structure format for busbars" id="10053" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -42,7 +42,7 @@
  <Property name="Structure format for general devices" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for black boxes" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for PLC / bus technology" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Time of the day" id="10058" index="0" type="14">1720656663</Property>
+ <Property name="Time of the day" id="10058" index="0" type="14">1723042529</Property>
  <Property name="Structure format for terminal strips" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for plugs" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for cables" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -359,7 +359,14 @@
  <Property name="Internal: Mechanic format description" id="10434" index="0" type="15">##_##@703/SchemeDataProject;</Property>
  <Property name="Start page name with document type" id="10450" index="0" type="1">0</Property>
  <Property name="Source language" id="10500" index="0" type="4">25</Property>
- <Property name="Data backup: Method" id="10514" index="0" type="4">-1</Property>
+ <Property name="Data backup: Complete backup" id="10510" index="0" type="1">1</Property>
+ <Property name="Data backup: Back up external documents" id="10511" index="0" type="1">1</Property>
+ <Property name="Data backup: Back up image files" id="10512" index="0" type="1">1</Property>
+ <Property name="Data backup: Reorganize project" id="10513" index="0" type="1">0</Property>
+ <Property name="Data backup: Method" id="10514" index="0" type="4">0</Property>
+ <Property name="Data backup: Backup medium" id="10515" index="0" type="4">0</Property>
+ <Property name="Data backup: E-mail message split size in MB" id="10516" index="0" type="6">0</Property>
+ <Property name="Data backup: Backup directory" id="10517" index="0" type="7">C:\Users\AI_PRO_DESK\Desktop\Local Document\Eplan_AI_Camera\Cabin2</Property>
  <Property name="Internal: Use defined working sections" id="10530" index="0" type="1">0</Property>
  <Property name="Type of project" id="10902" index="0" type="4">1</Property>
  <Property name="Internal: Number of repair processes of the project object" id="10904" index="0" type="4">0</Property>
